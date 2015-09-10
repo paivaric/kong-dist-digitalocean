@@ -1,6 +1,6 @@
-name: Kong
+name: kong
 image: cassandra
-min_size: 1gb
+min_size: 512mb
 config:
   #cloud-config
   packages:
